@@ -1,0 +1,8 @@
+name: Crates
+version: ${project.version}
+main: de.max.crates.Crates
+api-version: 1.17
+authors: [ xMaxelx ]
+
+commands:
+   crate:
